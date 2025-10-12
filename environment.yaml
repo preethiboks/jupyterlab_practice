@@ -1,0 +1,5 @@
+name: last_assignment
+channels:
+  - conda-forge
+  - defaults
+prefix: /opt/miniconda3/envs/last_assignment
